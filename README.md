@@ -1,3 +1,5 @@
 A simple team project for our Git lab. Each team member will implement a different function for a shared class. We are practicing the workflow of branching, creating pull requests, and merging changes.
 
 blalalaalallalal
+
+hello form kolia
